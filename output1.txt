@@ -1,0 +1,124 @@
+Enqueued Job: 
+Job ID: 101, Priority: 5, Job Type: 2, CPU Time Consumed: 150, Memory Consumed: 2000
+Jobs after enqueue:
+Job ID: 101, Priority: 5, Job Type: 2, CPU Time Consumed: 150, Memory Consumed: 2000
+Enqueued Job: 
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Jobs after enqueue:
+Job ID: 101, Priority: 5, Job Type: 2, CPU Time Consumed: 150, Memory Consumed: 2000
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Enqueued Job: 
+Job ID: 103, Priority: 7, Job Type: 4, CPU Time Consumed: 250, Memory Consumed: 4096
+Jobs after enqueue:
+Job ID: 101, Priority: 5, Job Type: 2, CPU Time Consumed: 150, Memory Consumed: 2000
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Job ID: 103, Priority: 7, Job Type: 4, CPU Time Consumed: 250, Memory Consumed: 4096
+Enqueued Job: 
+Job ID: 104, Priority: 2, Job Type: 3, CPU Time Consumed: 300, Memory Consumed: 2048
+Jobs after enqueue:
+Job ID: 101, Priority: 5, Job Type: 2, CPU Time Consumed: 150, Memory Consumed: 2000
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Job ID: 103, Priority: 7, Job Type: 4, CPU Time Consumed: 250, Memory Consumed: 4096
+Job ID: 104, Priority: 2, Job Type: 3, CPU Time Consumed: 300, Memory Consumed: 2048
+Enqueued Job: 
+Job ID: 105, Priority: 6, Job Type: 5, CPU Time Consumed: 200, Memory Consumed: 512
+Jobs after enqueue:
+Job ID: 101, Priority: 5, Job Type: 2, CPU Time Consumed: 150, Memory Consumed: 2000
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Job ID: 103, Priority: 7, Job Type: 4, CPU Time Consumed: 250, Memory Consumed: 4096
+Job ID: 104, Priority: 2, Job Type: 3, CPU Time Consumed: 300, Memory Consumed: 2048
+Job ID: 105, Priority: 6, Job Type: 5, CPU Time Consumed: 200, Memory Consumed: 512
+Promoted Job ID 103 by 2 Position(s):
+Job ID: 103, Priority: 7, Job Type: 4, CPU Time Consumed: 250, Memory Consumed: 4096
+Jobs after promotion:
+Job ID: 103, Priority: 7, Job Type: 4, CPU Time Consumed: 250, Memory Consumed: 4096
+Job ID: 101, Priority: 5, Job Type: 2, CPU Time Consumed: 150, Memory Consumed: 2000
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Job ID: 104, Priority: 2, Job Type: 3, CPU Time Consumed: 300, Memory Consumed: 2048
+Job ID: 105, Priority: 6, Job Type: 5, CPU Time Consumed: 200, Memory Consumed: 512
+Dequeued Job: 
+Job ID: 103, Priority: 7, Job Type: 4, CPU Time Consumed: 250, Memory Consumed: 4096
+Jobs after dequeue:
+Job ID: 101, Priority: 5, Job Type: 2, CPU Time Consumed: 150, Memory Consumed: 2000
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Job ID: 104, Priority: 2, Job Type: 3, CPU Time Consumed: 300, Memory Consumed: 2048
+Job ID: 105, Priority: 6, Job Type: 5, CPU Time Consumed: 200, Memory Consumed: 512
+Changed Job ID 101 field 1 to 8:
+Job ID: 101, Priority: 8, Job Type: 2, CPU Time Consumed: 150, Memory Consumed: 2000
+Jobs after changing field:
+Job ID: 101, Priority: 8, Job Type: 2, CPU Time Consumed: 150, Memory Consumed: 2000
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Job ID: 104, Priority: 2, Job Type: 3, CPU Time Consumed: 300, Memory Consumed: 2048
+Job ID: 105, Priority: 6, Job Type: 5, CPU Time Consumed: 200, Memory Consumed: 512
+Modified Job ID 105:
+Job ID: 105, Priority: 7, Job Type: 5, CPU Time Consumed: 220, Memory Consumed: 1024
+Jobs after modification:
+Job ID: 101, Priority: 8, Job Type: 2, CPU Time Consumed: 150, Memory Consumed: 2000
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Job ID: 104, Priority: 2, Job Type: 3, CPU Time Consumed: 300, Memory Consumed: 2048
+Job ID: 105, Priority: 7, Job Type: 5, CPU Time Consumed: 220, Memory Consumed: 1024
+Enqueued Job: 
+Job ID: 106, Priority: 4, Job Type: 2, CPU Time Consumed: 320, Memory Consumed: 5120
+Jobs after enqueue:
+Job ID: 101, Priority: 8, Job Type: 2, CPU Time Consumed: 150, Memory Consumed: 2000
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Job ID: 104, Priority: 2, Job Type: 3, CPU Time Consumed: 300, Memory Consumed: 2048
+Job ID: 105, Priority: 7, Job Type: 5, CPU Time Consumed: 220, Memory Consumed: 1024
+Job ID: 106, Priority: 4, Job Type: 2, CPU Time Consumed: 320, Memory Consumed: 5120
+Reordered Queue by attribute 1:
+Job ID: 101, Priority: 8, Job Type: 2, CPU Time Consumed: 150, Memory Consumed: 2000
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Job ID: 104, Priority: 2, Job Type: 3, CPU Time Consumed: 300, Memory Consumed: 2048
+Job ID: 105, Priority: 7, Job Type: 5, CPU Time Consumed: 220, Memory Consumed: 1024
+Job ID: 106, Priority: 4, Job Type: 2, CPU Time Consumed: 320, Memory Consumed: 5120
+Displaying all jobs in the queue:
+Job ID: 101, Priority: 8, Job Type: 2, CPU Time Consumed: 150, Memory Consumed: 2000
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Job ID: 104, Priority: 2, Job Type: 3, CPU Time Consumed: 300, Memory Consumed: 2048
+Job ID: 105, Priority: 7, Job Type: 5, CPU Time Consumed: 220, Memory Consumed: 1024
+Job ID: 106, Priority: 4, Job Type: 2, CPU Time Consumed: 320, Memory Consumed: 5120
+Promoted Job ID 106 by 1 Position(s):
+Job ID: 106, Priority: 4, Job Type: 2, CPU Time Consumed: 320, Memory Consumed: 5120
+Jobs after promotion:
+Job ID: 101, Priority: 8, Job Type: 2, CPU Time Consumed: 150, Memory Consumed: 2000
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Job ID: 104, Priority: 2, Job Type: 3, CPU Time Consumed: 300, Memory Consumed: 2048
+Job ID: 106, Priority: 4, Job Type: 2, CPU Time Consumed: 320, Memory Consumed: 5120
+Job ID: 105, Priority: 7, Job Type: 5, CPU Time Consumed: 220, Memory Consumed: 1024
+Enqueued Job: 
+Job ID: 107, Priority: 3, Job Type: 4, CPU Time Consumed: 180, Memory Consumed: 1500
+Jobs after enqueue:
+Job ID: 101, Priority: 8, Job Type: 2, CPU Time Consumed: 150, Memory Consumed: 2000
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Job ID: 104, Priority: 2, Job Type: 3, CPU Time Consumed: 300, Memory Consumed: 2048
+Job ID: 106, Priority: 4, Job Type: 2, CPU Time Consumed: 320, Memory Consumed: 5120
+Job ID: 105, Priority: 7, Job Type: 5, CPU Time Consumed: 220, Memory Consumed: 1024
+Job ID: 107, Priority: 3, Job Type: 4, CPU Time Consumed: 180, Memory Consumed: 1500
+Number of elements in the queue: 6
+Dequeued Job: 
+Job ID: 101, Priority: 8, Job Type: 2, CPU Time Consumed: 150, Memory Consumed: 2000
+Jobs after dequeue:
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Job ID: 104, Priority: 2, Job Type: 3, CPU Time Consumed: 300, Memory Consumed: 2048
+Job ID: 106, Priority: 4, Job Type: 2, CPU Time Consumed: 320, Memory Consumed: 5120
+Job ID: 105, Priority: 7, Job Type: 5, CPU Time Consumed: 220, Memory Consumed: 1024
+Job ID: 107, Priority: 3, Job Type: 4, CPU Time Consumed: 180, Memory Consumed: 1500
+Reordered Queue by attribute 2:
+Job ID: 104, Priority: 2, Job Type: 3, CPU Time Consumed: 300, Memory Consumed: 2048
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Job ID: 107, Priority: 3, Job Type: 4, CPU Time Consumed: 180, Memory Consumed: 1500
+Job ID: 106, Priority: 4, Job Type: 2, CPU Time Consumed: 320, Memory Consumed: 5120
+Job ID: 105, Priority: 7, Job Type: 5, CPU Time Consumed: 220, Memory Consumed: 1024
+Displaying all jobs in the queue:
+Job ID: 104, Priority: 2, Job Type: 3, CPU Time Consumed: 300, Memory Consumed: 2048
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Job ID: 107, Priority: 3, Job Type: 4, CPU Time Consumed: 180, Memory Consumed: 1500
+Job ID: 106, Priority: 4, Job Type: 2, CPU Time Consumed: 320, Memory Consumed: 5120
+Job ID: 105, Priority: 7, Job Type: 5, CPU Time Consumed: 220, Memory Consumed: 1024
+List of jobs sorted by job IDs:
+Job ID: 102, Priority: 3, Job Type: 1, CPU Time Consumed: 100, Memory Consumed: 1024
+Job ID: 104, Priority: 2, Job Type: 3, CPU Time Consumed: 300, Memory Consumed: 2048
+Job ID: 105, Priority: 7, Job Type: 5, CPU Time Consumed: 220, Memory Consumed: 1024
+Job ID: 106, Priority: 4, Job Type: 2, CPU Time Consumed: 320, Memory Consumed: 5120
+Job ID: 107, Priority: 3, Job Type: 4, CPU Time Consumed: 180, Memory Consumed: 1500
+Number of elements in the queue: 5
